@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7D4A85F2-7F44-42B2-8A1C-2B8B9E950C62</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Projeto Semana 01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>51463FA6-DBC8-4555-B07D-AE55C3323BB3</key>
+		<string>https://github.com/Tutz/Projeto-Semana-01.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Projeto Semana 01/Projeto Semana 01.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>51463FA6-DBC8-4555-B07D-AE55C3323BB3</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Tutz/Projeto-Semana-01.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51463FA6-DBC8-4555-B07D-AE55C3323BB3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51463FA6-DBC8-4555-B07D-AE55C3323BB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Projeto-Semana-01</string>
+		</dict>
+	</array>
+</dict>
+</plist>
